@@ -1,4 +1,4 @@
-# HeroesApp
+# FireChat
 
 El proyecto fue creado con [Angular CLI] version 12.0.1.
 
